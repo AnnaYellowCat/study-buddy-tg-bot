@@ -1,0 +1,9 @@
+/mvnw
+/mvnw.cmd
+/.idea/
+/.mvn/
+/target/
+/.env
+/src/main/resources/certs/root.crt
+/src/main/resources/application-prod.yml
+/kubernetes/secret.yaml
